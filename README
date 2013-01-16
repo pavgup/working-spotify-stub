@@ -1,0 +1,6 @@
+This is a working libspotify stuff that simply logs into your spotify account.  The one that is distributed with the libspotify package is broken.  If you want to compile this, you need to simply run "make LIBSPOTIFY_PATH=../../../.." and you just need to set the LIBSPOTIFY_PATH variable equal to the location of your libspotify download's base folder.
+
+If you need to understand this in greater detail, you can check this out: http://pavangupta.com/2012/12/29/compiling-the-libspotify-examples-on-debian/ and you can always ask me questions (pg8p@virginia.edu).
+
+Thanks!
+
